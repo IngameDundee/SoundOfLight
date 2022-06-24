@@ -1,0 +1,43 @@
+Event	ID	Name			Wwise Object Path	Notes
+	348270556	R_Index			\Default Work Unit\CaveScene\R_Index	
+	1924347634	L_Index			\Default Work Unit\CaveScene\L_Index	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	348270556	R_Index			\Default Work Unit\R_Index	
+	1924347634	L_Index			\Default Work Unit\L_Index	
+
+Switch	ID	Name	Switch Group			Notes
+	1160234136	Normal	R_Index			
+	3444057113	Crystal	R_Index			
+	1160234136	Normal	L_Index			
+	3257506471	Impact	L_Index			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	12181325	C6_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\C6_long_D58C1BC9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\C6_long		3072144
+	45347330	G1	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\G1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\G1		632144
+	89183607	B4_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\B4_long_AF45ADC9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\B4_long		3072144
+	115662522	E4	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\E4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\E4		1152144
+	135209714	C5	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\C5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\C5		1182144
+	191910983	F5	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\F5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\F5		1182144
+	229781483	E1	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\E1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\E1		672144
+	232671184	F5_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\F5_long_3BCD80BF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\F5_long		3072144
+	352201399	B4	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\B4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\B4		1182144
+	354512671	A5_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\A5_long_1352845A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\A5_long		3072144
+	356423984	G4_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\G4_long_133AEA1B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\G4_long		3072144
+	373765945	F1	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\F1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\F1		632144
+	399420050	snare_boom	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\snare_boom_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Impact\snare_boom		2640144
+	488861810	C2	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\C2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\C2		691344
+	550718376	C5_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\C5_long_EE6C52C1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\C5_long		3072144
+	609390564	G4	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\G4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\G4		1182144
+	642031474	E4_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\E4_long_D035F440.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\E4_long		3072144
+	695004939	A1	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\A1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\A1		516144
+	733559474	C6	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\C6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\C6		1182144
+	895314573	D5	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\D5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\D5		1182144
+	915696372	D5_long	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Cloud_Shimmer\long\D5_long_A732E0FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\long\D5_long		3072144
+	919845631	B1	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\B1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\B1		600144
+	973162985	D1	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\D1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\D1		696144
+	1012693063	dramatic_boom_2	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\dramatic_boom_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Impact\dramatic_boom_2		3072144
+	1028908904	E2	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\Unfriendly\E2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Unfriendly\E2		696144
+	1055376261	A5	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_louder\A5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Cloud_Shimmer\short_louder\A5		1182144
+	1067247476	short_boom_2	Y:\Documents\Sound of Light New Repo\SoundOfLight\SoundOfLight_N2.1.5_wwise2019\Normcore VR - Oculus Hand Tracking_WwiseProject\.cache\Mac\SFX\short_boom_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cave Scene\Low_Sound\Impact\short_boom_2		524432
+

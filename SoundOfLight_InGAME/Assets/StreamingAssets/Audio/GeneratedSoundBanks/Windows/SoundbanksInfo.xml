@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>/Users/jungin/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Sound of Light New Repo/SoundOfLight/SoundOfLight_N2.1.5_wwise2019/Normcore VR - Oculus Hand Tracking_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/jungin/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Sound of Light New Repo/SoundOfLight/SoundOfLight_N2.1.5_wwise2019/Normcore VR - Oculus Hand Tracking_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/jungin/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Sound of Light New Repo/SoundOfLight/SoundOfLight_N2.1.5_wwise2019/Normcore VR - Oculus Hand Tracking_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/jungin/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Sound of Light New Repo/SoundOfLight/SoundOfLight_N2.1.5_wwise2019/Normcore VR - Oculus Hand Tracking_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="831140332" Language="SFX" Hash="20819145">
+			<ObjectPath>\SoundBanks\Default Work Unit\NightSky</ObjectPath>
+			<ShortName>NightSky</ShortName>
+			<Path>NightSky.bnk</Path>
+			<IncludedEvents>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\NightSky\Environment\Ambience" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="68911994" Language="SFX">
+							<ShortName>Ambience\Gecko.wav</ShortName>
+							<Path>SFX/Ambience/Gecko_10C4C929.wem</Path>
+						</File>
+						<File Id="234016259" Language="SFX">
+							<ShortName>Ambience\Cricket_Night.wav</ShortName>
+							<Path>SFX/Ambience/Cricket_Night_D79FB2B7.wem</Path>
+						</File>
+						<File Id="420621455" Language="SFX">
+							<ShortName>Ambience\Gecko2.wav</ShortName>
+							<Path>SFX/Ambience/Gecko2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3731027100" Name="FingerTips" ObjectPath="\Events\Default Work Unit\NightSky\FingerTipObjects\FingerTips" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="2.291162" DurationMax="2.724667">
+					<IncludedMemoryFiles>
+						<File Id="687979689" Language="SFX">
+							<ShortName>pops\pop2.wav</ShortName>
+							<Path>SFX/pops/pop2_10C4C929.wem</Path>
+						</File>
+						<File Id="711971840" Language="SFX">
+							<ShortName>pops\pop3.wav</ShortName>
+							<Path>SFX/pops/pop3_10C4C929.wem</Path>
+						</File>
+						<File Id="1021290059" Language="SFX">
+							<ShortName>pops\pop1.wav</ShortName>
+							<Path>SFX/pops/pop1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="502907952" Name="NS_L_Index" ObjectPath="\Events\Default Work Unit\NightSky\Hands\NS_L_Index" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="1.283040" DurationMax="3.058335">
+					<IncludedMemoryFiles>
+						<File Id="207714401" Language="SFX">
+							<ShortName>Marble\marble6.wav</ShortName>
+							<Path>SFX/Marble/marble6_10C4C929.wem</Path>
+						</File>
+						<File Id="275641774" Language="SFX">
+							<ShortName>Marble\marble2.wav</ShortName>
+							<Path>SFX/Marble/marble2_10C4C929.wem</Path>
+						</File>
+						<File Id="277998812" Language="SFX">
+							<ShortName>Marble\marble1.wav</ShortName>
+							<Path>SFX/Marble/marble1_10C4C929.wem</Path>
+						</File>
+						<File Id="538172651" Language="SFX">
+							<ShortName>Marble\marble7.wav</ShortName>
+							<Path>SFX/Marble/marble7_10C4C929.wem</Path>
+						</File>
+						<File Id="663646198" Language="SFX">
+							<ShortName>Marble\marble5.wav</ShortName>
+							<Path>SFX/Marble/marble5_10C4C929.wem</Path>
+						</File>
+						<File Id="939578433" Language="SFX">
+							<ShortName>Marble\marble4.wav</ShortName>
+							<Path>SFX/Marble/marble4_10C4C929.wem</Path>
+						</File>
+						<File Id="989739580" Language="SFX">
+							<ShortName>Marble\marble3.wav</ShortName>
+							<Path>SFX/Marble/marble3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1553300302" Name="NS_R_Index" ObjectPath="\Events\Default Work Unit\NightSky\Hands\NS_R_Index" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="1.211028" DurationMax="2.886684">
+					<IncludedMemoryFiles>
+						<File Id="127805304" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_7.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_7_10C4C929.wem</Path>
+						</File>
+						<File Id="247602887" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_3.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_3_10C4C929.wem</Path>
+						</File>
+						<File Id="404190458" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_6.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_6_10C4C929.wem</Path>
+						</File>
+						<File Id="441149896" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_9.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_9_10C4C929.wem</Path>
+						</File>
+						<File Id="577854426" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_1.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_1_10C4C929.wem</Path>
+						</File>
+						<File Id="720174785" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_5.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_5_10C4C929.wem</Path>
+						</File>
+						<File Id="880237790" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_4.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_4_10C4C929.wem</Path>
+						</File>
+						<File Id="1004391285" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_8.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_8_10C4C929.wem</Path>
+						</File>
+						<File Id="1019416134" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_2.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2981901455" Name="Play_electrical_noise" ObjectPath="\Events\Default Work Unit\NightSky\Hands\Play_electrical_noise" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="1.246514" DurationMax="2.971270">
+					<IncludedMemoryFiles>
+						<File Id="23060089" Language="SFX">
+							<ShortName>electrical_noise_6_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_6_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="127805304" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_7.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_7_10C4C929.wem</Path>
+						</File>
+						<File Id="247602887" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_3.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_3_10C4C929.wem</Path>
+						</File>
+						<File Id="404190458" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_6.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_6_10C4C929.wem</Path>
+						</File>
+						<File Id="441149896" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_9.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_9_10C4C929.wem</Path>
+						</File>
+						<File Id="534113957" Language="SFX">
+							<ShortName>electrical_noise_9_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_9_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="547485901" Language="SFX">
+							<ShortName>electrical_noise_8_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_8_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="577854426" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_1.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_1_10C4C929.wem</Path>
+						</File>
+						<File Id="625534957" Language="SFX">
+							<ShortName>electrical_noise_2_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_2_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="636584329" Language="SFX">
+							<ShortName>electrical_noise_7_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_7_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="699564150" Language="SFX">
+							<ShortName>electrical_noise_3_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_3_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="720174785" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_5.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_5_10C4C929.wem</Path>
+						</File>
+						<File Id="757627174" Language="SFX">
+							<ShortName>electrical_noise_1_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_1_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="792736790" Language="SFX">
+							<ShortName>electrical_noise_5_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_5_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="860768635" Language="SFX">
+							<ShortName>electrical_noise_4_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_4_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="880237790" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_4.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_4_10C4C929.wem</Path>
+						</File>
+						<File Id="1004391285" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_8.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_8_10C4C929.wem</Path>
+						</File>
+						<File Id="1019416134" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_2.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3678868996" Name="Play_FingerTipsBlend" ObjectPath="\Events\Default Work Unit\NightSky\FingerTipObjects\Play_FingerTipsBlend" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="2.291162" DurationMax="2.886684">
+					<IncludedMemoryFiles>
+						<File Id="68683500" Language="SFX">
+							<ShortName>pop1_fog.wav</ShortName>
+							<Path>SFX/pop1_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="433638063" Language="SFX">
+							<ShortName>pop2_fog.wav</ShortName>
+							<Path>SFX/pop2_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="531014120" Language="SFX">
+							<ShortName>pop3_fog.wav</ShortName>
+							<Path>SFX/pop3_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="687979689" Language="SFX">
+							<ShortName>pops\pop2.wav</ShortName>
+							<Path>SFX/pops/pop2_10C4C929.wem</Path>
+						</File>
+						<File Id="711971840" Language="SFX">
+							<ShortName>pops\pop3.wav</ShortName>
+							<Path>SFX/pops/pop3_10C4C929.wem</Path>
+						</File>
+						<File Id="1021290059" Language="SFX">
+							<ShortName>pops\pop1.wav</ShortName>
+							<Path>SFX/pops/pop1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3633580670" Name="Play_GhostVoices_Blend" ObjectPath="\Events\Default Work Unit\NightSky\SonicGlobe\Play_GhostVoices_Blend" MaxAttenuation="60.000000" DurationType="OneShot" DurationMin="20.635500" DurationMax="31.446646">
+					<IncludedMemoryFiles>
+						<File Id="15914924" Language="SFX">
+							<ShortName>GV_C#0.wav</ShortName>
+							<Path>SFX/GV_C#0_10C4C929.wem</Path>
+						</File>
+						<File Id="42965227" Language="SFX">
+							<ShortName>GV_E5.wav</ShortName>
+							<Path>SFX/GV_E5_10C4C929.wem</Path>
+						</File>
+						<File Id="145914847" Language="SFX">
+							<ShortName>GV_D#1.wav</ShortName>
+							<Path>SFX/GV_D#1_10C4C929.wem</Path>
+						</File>
+						<File Id="212058961" Language="SFX">
+							<ShortName>GV_G6.wav</ShortName>
+							<Path>SFX/GV_G6_10C4C929.wem</Path>
+						</File>
+						<File Id="212828677" Language="SFX">
+							<ShortName>Ghost_Voices\GV_A2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_A2_10C4C929.wem</Path>
+						</File>
+						<File Id="247542851" Language="SFX">
+							<ShortName>GV_C7.wav</ShortName>
+							<Path>SFX/GV_C7_10C4C929.wem</Path>
+						</File>
+						<File Id="445437940" Language="SFX">
+							<ShortName>GV_G0.wav</ShortName>
+							<Path>SFX/GV_G0_10C4C929.wem</Path>
+						</File>
+						<File Id="485932590" Language="SFX">
+							<ShortName>Ghost_Voices\GV_G3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_G3_10C4C929.wem</Path>
+						</File>
+						<File Id="531623825" Language="SFX">
+							<ShortName>GV_G4.wav</ShortName>
+							<Path>SFX/GV_G4_10C4C929.wem</Path>
+						</File>
+						<File Id="565841670" Language="SFX">
+							<ShortName>Ghost_Voices\GV_A3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_A3_10C4C929.wem</Path>
+						</File>
+						<File Id="581822472" Language="SFX">
+							<ShortName>Ghost_Voices\GV_E3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_E3_10C4C929.wem</Path>
+						</File>
+						<File Id="600120348" Language="SFX">
+							<ShortName>Ghost_Voices\GV_C2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_C2_10C4C929.wem</Path>
+						</File>
+						<File Id="607155933" Language="SFX">
+							<ShortName>Ghost_Voices\GV_E2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_E2_10C4C929.wem</Path>
+						</File>
+						<File Id="608375400" Language="SFX">
+							<ShortName>GV_A#0.wav</ShortName>
+							<Path>SFX/GV_A#0_10C4C929.wem</Path>
+						</File>
+						<File Id="611488053" Language="SFX">
+							<ShortName>GV_F#0.wav</ShortName>
+							<Path>SFX/GV_F#0_10C4C929.wem</Path>
+						</File>
+						<File Id="677556806" Language="SFX">
+							<ShortName>GV_B0.wav</ShortName>
+							<Path>SFX/GV_B0_10C4C929.wem</Path>
+						</File>
+						<File Id="826440137" Language="SFX">
+							<ShortName>Ghost_Voices\GV_G2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_G2_10C4C929.wem</Path>
+						</File>
+						<File Id="858636786" Language="SFX">
+							<ShortName>Ghost_Voices\GV_B2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_B2_10C4C929.wem</Path>
+						</File>
+						<File Id="927749289" Language="SFX">
+							<ShortName>Ghost_Voices\GV_C3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_C3_10C4C929.wem</Path>
+						</File>
+						<File Id="980267315" Language="SFX">
+							<ShortName>GV_C4.wav</ShortName>
+							<Path>SFX/GV_C4_10C4C929.wem</Path>
+						</File>
+						<File Id="984450538" Language="SFX">
+							<ShortName>GV_C6.wav</ShortName>
+							<Path>SFX/GV_C6_10C4C929.wem</Path>
+						</File>
+						<File Id="1038160271" Language="SFX">
+							<ShortName>Ghost_Voices\GV_B3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_B3_10C4C929.wem</Path>
+						</File>
+						<File Id="1039078469" Language="SFX">
+							<ShortName>GV_F#1.wav</ShortName>
+							<Path>SFX/GV_F#1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="256439414" Name="Play_Marble_noise" ObjectPath="\Events\Default Work Unit\NightSky\Hands\Play_Marble_noise" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="1.283040" DurationMax="3.058335">
+					<IncludedMemoryFiles>
+						<File Id="72844048" Language="SFX">
+							<ShortName>marble3_fog.wav</ShortName>
+							<Path>SFX/marble3_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="141404963" Language="SFX">
+							<ShortName>marble8_fog.wav</ShortName>
+							<Path>SFX/marble8_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="207714401" Language="SFX">
+							<ShortName>Marble\marble6.wav</ShortName>
+							<Path>SFX/Marble/marble6_10C4C929.wem</Path>
+						</File>
+						<File Id="275641774" Language="SFX">
+							<ShortName>Marble\marble2.wav</ShortName>
+							<Path>SFX/Marble/marble2_10C4C929.wem</Path>
+						</File>
+						<File Id="277998812" Language="SFX">
+							<ShortName>Marble\marble1.wav</ShortName>
+							<Path>SFX/Marble/marble1_10C4C929.wem</Path>
+						</File>
+						<File Id="439101951" Language="SFX">
+							<ShortName>marble5_fog.wav</ShortName>
+							<Path>SFX/marble5_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="538172651" Language="SFX">
+							<ShortName>Marble\marble7.wav</ShortName>
+							<Path>SFX/Marble/marble7_10C4C929.wem</Path>
+						</File>
+						<File Id="582289601" Language="SFX">
+							<ShortName>marble4_fog.wav</ShortName>
+							<Path>SFX/marble4_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="663646198" Language="SFX">
+							<ShortName>Marble\marble5.wav</ShortName>
+							<Path>SFX/Marble/marble5_10C4C929.wem</Path>
+						</File>
+						<File Id="736103094" Language="SFX">
+							<ShortName>marble1_fog.wav</ShortName>
+							<Path>SFX/marble1_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="816288266" Language="SFX">
+							<ShortName>marble2_fog.wav</ShortName>
+							<Path>SFX/marble2_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="825767101" Language="SFX">
+							<ShortName>marble6_fog.wav</ShortName>
+							<Path>SFX/marble6_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="939578433" Language="SFX">
+							<ShortName>Marble\marble4.wav</ShortName>
+							<Path>SFX/Marble/marble4_10C4C929.wem</Path>
+						</File>
+						<File Id="989739580" Language="SFX">
+							<ShortName>Marble\marble3.wav</ShortName>
+							<Path>SFX/Marble/marble3_10C4C929.wem</Path>
+						</File>
+						<File Id="1024712346" Language="SFX">
+							<ShortName>marble9_fog.wav</ShortName>
+							<Path>SFX/marble9_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="1053571302" Language="SFX">
+							<ShortName>marble7_fog.wav</ShortName>
+							<Path>SFX/marble7_fog_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3487893033" Name="Play_Plant_noSwitch" ObjectPath="\Events\Default Work Unit\NightSky\Environment\Play_Plant_noSwitch" DurationType="OneShot" DurationMin="5.345392" DurationMax="6.356779">
+					<IncludedMemoryFiles>
+						<File Id="3562064" Language="SFX">
+							<ShortName>puff_fog_g1.wav</ShortName>
+							<Path>SFX/puff_fog_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="135464829" Language="SFX">
+							<ShortName>puff_f1.wav</ShortName>
+							<Path>SFX/puff_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="141224483" Language="SFX">
+							<ShortName>puff_fog_e1.wav</ShortName>
+							<Path>SFX/puff_fog_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="203481937" Language="SFX">
+							<ShortName>puff_fog_c2.wav</ShortName>
+							<Path>SFX/puff_fog_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="225544812" Language="SFX">
+							<ShortName>puff_fog_d1.wav</ShortName>
+							<Path>SFX/puff_fog_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="250893873" Language="SFX">
+							<ShortName>puff_c1.wav</ShortName>
+							<Path>SFX/puff_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="398960131" Language="SFX">
+							<ShortName>puff_fog_a1.wav</ShortName>
+							<Path>SFX/puff_fog_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="531171674" Language="SFX">
+							<ShortName>puff_fog_c1.wav</ShortName>
+							<Path>SFX/puff_fog_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="587442154" Language="SFX">
+							<ShortName>puff_c2.wav</ShortName>
+							<Path>SFX/puff_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="597785555" Language="SFX">
+							<ShortName>puff_b1.wav</ShortName>
+							<Path>SFX/puff_b1_10C4C929.wem</Path>
+						</File>
+						<File Id="687167611" Language="SFX">
+							<ShortName>puff_g1.wav</ShortName>
+							<Path>SFX/puff_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="729496355" Language="SFX">
+							<ShortName>puff_fog_f1.wav</ShortName>
+							<Path>SFX/puff_fog_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="733627034" Language="SFX">
+							<ShortName>puff_e1.wav</ShortName>
+							<Path>SFX/puff_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="872768718" Language="SFX">
+							<ShortName>puff_a1.wav</ShortName>
+							<Path>SFX/puff_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="888197444" Language="SFX">
+							<ShortName>puff_d1.wav</ShortName>
+							<Path>SFX/puff_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="1049379122" Language="SFX">
+							<ShortName>puff_fog_b1.wav</ShortName>
+							<Path>SFX/puff_fog_b1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2209502600" Name="Play_plant_test" ObjectPath="\Events\Default Work Unit\TestSound\Play_plant_test" MaxAttenuation="25.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="3562064" Language="SFX">
+							<ShortName>puff_fog_g1.wav</ShortName>
+							<Path>SFX/puff_fog_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="141224483" Language="SFX">
+							<ShortName>puff_fog_e1.wav</ShortName>
+							<Path>SFX/puff_fog_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="203481937" Language="SFX">
+							<ShortName>puff_fog_c2.wav</ShortName>
+							<Path>SFX/puff_fog_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="225544812" Language="SFX">
+							<ShortName>puff_fog_d1.wav</ShortName>
+							<Path>SFX/puff_fog_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="398960131" Language="SFX">
+							<ShortName>puff_fog_a1.wav</ShortName>
+							<Path>SFX/puff_fog_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="531171674" Language="SFX">
+							<ShortName>puff_fog_c1.wav</ShortName>
+							<Path>SFX/puff_fog_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="729496355" Language="SFX">
+							<ShortName>puff_fog_f1.wav</ShortName>
+							<Path>SFX/puff_fog_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="1049379122" Language="SFX">
+							<ShortName>puff_fog_b1.wav</ShortName>
+							<Path>SFX/puff_fog_b1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4037996292" Name="Play_S3_Left" ObjectPath="\Events\Default Work Unit\NightSky\Hands\Play_S3_Left" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="3562064" Language="SFX">
+							<ShortName>puff_fog_g1.wav</ShortName>
+							<Path>SFX/puff_fog_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="72844048" Language="SFX">
+							<ShortName>marble3_fog.wav</ShortName>
+							<Path>SFX/marble3_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="135464829" Language="SFX">
+							<ShortName>puff_f1.wav</ShortName>
+							<Path>SFX/puff_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="141224483" Language="SFX">
+							<ShortName>puff_fog_e1.wav</ShortName>
+							<Path>SFX/puff_fog_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="141404963" Language="SFX">
+							<ShortName>marble8_fog.wav</ShortName>
+							<Path>SFX/marble8_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="203481937" Language="SFX">
+							<ShortName>puff_fog_c2.wav</ShortName>
+							<Path>SFX/puff_fog_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="207714401" Language="SFX">
+							<ShortName>Marble\marble6.wav</ShortName>
+							<Path>SFX/Marble/marble6_10C4C929.wem</Path>
+						</File>
+						<File Id="225544812" Language="SFX">
+							<ShortName>puff_fog_d1.wav</ShortName>
+							<Path>SFX/puff_fog_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="250893873" Language="SFX">
+							<ShortName>puff_c1.wav</ShortName>
+							<Path>SFX/puff_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="275641774" Language="SFX">
+							<ShortName>Marble\marble2.wav</ShortName>
+							<Path>SFX/Marble/marble2_10C4C929.wem</Path>
+						</File>
+						<File Id="277998812" Language="SFX">
+							<ShortName>Marble\marble1.wav</ShortName>
+							<Path>SFX/Marble/marble1_10C4C929.wem</Path>
+						</File>
+						<File Id="398960131" Language="SFX">
+							<ShortName>puff_fog_a1.wav</ShortName>
+							<Path>SFX/puff_fog_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="399420050" Language="SFX">
+							<ShortName>snare_boom.wav</ShortName>
+							<Path>SFX/snare_boom_10C4C929.wem</Path>
+						</File>
+						<File Id="439101951" Language="SFX">
+							<ShortName>marble5_fog.wav</ShortName>
+							<Path>SFX/marble5_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="531171674" Language="SFX">
+							<ShortName>puff_fog_c1.wav</ShortName>
+							<Path>SFX/puff_fog_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="538172651" Language="SFX">
+							<ShortName>Marble\marble7.wav</ShortName>
+							<Path>SFX/Marble/marble7_10C4C929.wem</Path>
+						</File>
+						<File Id="582289601" Language="SFX">
+							<ShortName>marble4_fog.wav</ShortName>
+							<Path>SFX/marble4_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="587442154" Language="SFX">
+							<ShortName>puff_c2.wav</ShortName>
+							<Path>SFX/puff_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="597785555" Language="SFX">
+							<ShortName>puff_b1.wav</ShortName>
+							<Path>SFX/puff_b1_10C4C929.wem</Path>
+						</File>
+						<File Id="663646198" Language="SFX">
+							<ShortName>Marble\marble5.wav</ShortName>
+							<Path>SFX/Marble/marble5_10C4C929.wem</Path>
+						</File>
+						<File Id="687167611" Language="SFX">
+							<ShortName>puff_g1.wav</ShortName>
+							<Path>SFX/puff_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="729496355" Language="SFX">
+							<ShortName>puff_fog_f1.wav</ShortName>
+							<Path>SFX/puff_fog_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="733627034" Language="SFX">
+							<ShortName>puff_e1.wav</ShortName>
+							<Path>SFX/puff_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="736103094" Language="SFX">
+							<ShortName>marble1_fog.wav</ShortName>
+							<Path>SFX/marble1_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="816288266" Language="SFX">
+							<ShortName>marble2_fog.wav</ShortName>
+							<Path>SFX/marble2_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="825767101" Language="SFX">
+							<ShortName>marble6_fog.wav</ShortName>
+							<Path>SFX/marble6_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="872768718" Language="SFX">
+							<ShortName>puff_a1.wav</ShortName>
+							<Path>SFX/puff_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="888197444" Language="SFX">
+							<ShortName>puff_d1.wav</ShortName>
+							<Path>SFX/puff_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="939578433" Language="SFX">
+							<ShortName>Marble\marble4.wav</ShortName>
+							<Path>SFX/Marble/marble4_10C4C929.wem</Path>
+						</File>
+						<File Id="989739580" Language="SFX">
+							<ShortName>Marble\marble3.wav</ShortName>
+							<Path>SFX/Marble/marble3_10C4C929.wem</Path>
+						</File>
+						<File Id="1012693063" Language="SFX">
+							<ShortName>dramatic_boom_2.wav</ShortName>
+							<Path>SFX/dramatic_boom_2_10C4C929.wem</Path>
+						</File>
+						<File Id="1024712346" Language="SFX">
+							<ShortName>marble9_fog.wav</ShortName>
+							<Path>SFX/marble9_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="1049379122" Language="SFX">
+							<ShortName>puff_fog_b1.wav</ShortName>
+							<Path>SFX/puff_fog_b1_10C4C929.wem</Path>
+						</File>
+						<File Id="1053571302" Language="SFX">
+							<ShortName>marble7_fog.wav</ShortName>
+							<Path>SFX/marble7_fog_10C4C929.wem</Path>
+						</File>
+						<File Id="1067247476" Language="SFX">
+							<ShortName>short_boom_2.wav</ShortName>
+							<Path>SFX/short_boom_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{CB6C1136-B250-4C06-8A77-777FF42D7B61}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{CB6C1136-B250-4C06-8A77-777FF42D7B61}">
+							<Media>
+								<File Id="72844048"/>
+								<File Id="141404963"/>
+								<File Id="207714401"/>
+								<File Id="275641774"/>
+								<File Id="277998812"/>
+								<File Id="439101951"/>
+								<File Id="538172651"/>
+								<File Id="582289601"/>
+								<File Id="663646198"/>
+								<File Id="736103094"/>
+								<File Id="816288266"/>
+								<File Id="825767101"/>
+								<File Id="939578433"/>
+								<File Id="989739580"/>
+								<File Id="1024712346"/>
+								<File Id="1053571302"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EF5A464F-B9EE-40FC-8DBA-BC02262316E9}">
+							<Media>
+								<File Id="399420050"/>
+								<File Id="1012693063"/>
+								<File Id="1067247476"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{057CF6A7-FE55-41D4-BF71-EEB2FBDB092A}">
+							<Media>
+								<File Id="3562064"/>
+								<File Id="135464829"/>
+								<File Id="141224483"/>
+								<File Id="203481937"/>
+								<File Id="225544812"/>
+								<File Id="250893873"/>
+								<File Id="398960131"/>
+								<File Id="531171674"/>
+								<File Id="587442154"/>
+								<File Id="597785555"/>
+								<File Id="687167611"/>
+								<File Id="729496355"/>
+								<File Id="733627034"/>
+								<File Id="872768718"/>
+								<File Id="888197444"/>
+								<File Id="1049379122"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2377466211" Name="Play_S3_Right" ObjectPath="\Events\Default Work Unit\NightSky\Hands\Play_S3_Right" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="3562064" Language="SFX">
+							<ShortName>puff_fog_g1.wav</ShortName>
+							<Path>SFX/puff_fog_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="23060089" Language="SFX">
+							<ShortName>electrical_noise_6_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_6_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="127805304" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_7.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_7_10C4C929.wem</Path>
+						</File>
+						<File Id="135464829" Language="SFX">
+							<ShortName>puff_f1.wav</ShortName>
+							<Path>SFX/puff_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="141224483" Language="SFX">
+							<ShortName>puff_fog_e1.wav</ShortName>
+							<Path>SFX/puff_fog_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="203481937" Language="SFX">
+							<ShortName>puff_fog_c2.wav</ShortName>
+							<Path>SFX/puff_fog_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="225544812" Language="SFX">
+							<ShortName>puff_fog_d1.wav</ShortName>
+							<Path>SFX/puff_fog_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="247602887" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_3.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_3_10C4C929.wem</Path>
+						</File>
+						<File Id="250893873" Language="SFX">
+							<ShortName>puff_c1.wav</ShortName>
+							<Path>SFX/puff_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="398960131" Language="SFX">
+							<ShortName>puff_fog_a1.wav</ShortName>
+							<Path>SFX/puff_fog_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="399420050" Language="SFX">
+							<ShortName>snare_boom.wav</ShortName>
+							<Path>SFX/snare_boom_10C4C929.wem</Path>
+						</File>
+						<File Id="404190458" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_6.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_6_10C4C929.wem</Path>
+						</File>
+						<File Id="441149896" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_9.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_9_10C4C929.wem</Path>
+						</File>
+						<File Id="531171674" Language="SFX">
+							<ShortName>puff_fog_c1.wav</ShortName>
+							<Path>SFX/puff_fog_c1_10C4C929.wem</Path>
+						</File>
+						<File Id="534113957" Language="SFX">
+							<ShortName>electrical_noise_9_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_9_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="547485901" Language="SFX">
+							<ShortName>electrical_noise_8_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_8_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="577854426" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_1.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_1_10C4C929.wem</Path>
+						</File>
+						<File Id="587442154" Language="SFX">
+							<ShortName>puff_c2.wav</ShortName>
+							<Path>SFX/puff_c2_10C4C929.wem</Path>
+						</File>
+						<File Id="597785555" Language="SFX">
+							<ShortName>puff_b1.wav</ShortName>
+							<Path>SFX/puff_b1_10C4C929.wem</Path>
+						</File>
+						<File Id="625534957" Language="SFX">
+							<ShortName>electrical_noise_2_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_2_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="636584329" Language="SFX">
+							<ShortName>electrical_noise_7_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_7_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="687167611" Language="SFX">
+							<ShortName>puff_g1.wav</ShortName>
+							<Path>SFX/puff_g1_10C4C929.wem</Path>
+						</File>
+						<File Id="699564150" Language="SFX">
+							<ShortName>electrical_noise_3_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_3_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="720174785" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_5.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_5_10C4C929.wem</Path>
+						</File>
+						<File Id="729496355" Language="SFX">
+							<ShortName>puff_fog_f1.wav</ShortName>
+							<Path>SFX/puff_fog_f1_10C4C929.wem</Path>
+						</File>
+						<File Id="733627034" Language="SFX">
+							<ShortName>puff_e1.wav</ShortName>
+							<Path>SFX/puff_e1_10C4C929.wem</Path>
+						</File>
+						<File Id="757627174" Language="SFX">
+							<ShortName>electrical_noise_1_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_1_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="792736790" Language="SFX">
+							<ShortName>electrical_noise_5_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_5_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="860768635" Language="SFX">
+							<ShortName>electrical_noise_4_Fog.wav</ShortName>
+							<Path>SFX/electrical_noise_4_Fog_10C4C929.wem</Path>
+						</File>
+						<File Id="872768718" Language="SFX">
+							<ShortName>puff_a1.wav</ShortName>
+							<Path>SFX/puff_a1_10C4C929.wem</Path>
+						</File>
+						<File Id="880237790" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_4.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_4_10C4C929.wem</Path>
+						</File>
+						<File Id="888197444" Language="SFX">
+							<ShortName>puff_d1.wav</ShortName>
+							<Path>SFX/puff_d1_10C4C929.wem</Path>
+						</File>
+						<File Id="1004391285" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_8.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_8_10C4C929.wem</Path>
+						</File>
+						<File Id="1012693063" Language="SFX">
+							<ShortName>dramatic_boom_2.wav</ShortName>
+							<Path>SFX/dramatic_boom_2_10C4C929.wem</Path>
+						</File>
+						<File Id="1019416134" Language="SFX">
+							<ShortName>electrical_noise\electrical_noise_2.wav</ShortName>
+							<Path>SFX/electrical_noise/electrical_noise_2_10C4C929.wem</Path>
+						</File>
+						<File Id="1049379122" Language="SFX">
+							<ShortName>puff_fog_b1.wav</ShortName>
+							<Path>SFX/puff_fog_b1_10C4C929.wem</Path>
+						</File>
+						<File Id="1067247476" Language="SFX">
+							<ShortName>short_boom_2.wav</ShortName>
+							<Path>SFX/short_boom_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{D163E3C4-7025-43B0-8B9B-8961786371B7}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{D163E3C4-7025-43B0-8B9B-8961786371B7}">
+							<Media>
+								<File Id="23060089"/>
+								<File Id="127805304"/>
+								<File Id="247602887"/>
+								<File Id="404190458"/>
+								<File Id="441149896"/>
+								<File Id="534113957"/>
+								<File Id="547485901"/>
+								<File Id="577854426"/>
+								<File Id="625534957"/>
+								<File Id="636584329"/>
+								<File Id="699564150"/>
+								<File Id="720174785"/>
+								<File Id="757627174"/>
+								<File Id="792736790"/>
+								<File Id="860768635"/>
+								<File Id="880237790"/>
+								<File Id="1004391285"/>
+								<File Id="1019416134"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E51CD0C2-0243-42A6-900D-9113ED4C02F6}">
+							<Media>
+								<File Id="399420050"/>
+								<File Id="1012693063"/>
+								<File Id="1067247476"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E68AE317-F918-45F2-983C-180A0301A6A2}">
+							<Media>
+								<File Id="3562064"/>
+								<File Id="135464829"/>
+								<File Id="141224483"/>
+								<File Id="203481937"/>
+								<File Id="225544812"/>
+								<File Id="250893873"/>
+								<File Id="398960131"/>
+								<File Id="531171674"/>
+								<File Id="587442154"/>
+								<File Id="597785555"/>
+								<File Id="687167611"/>
+								<File Id="729496355"/>
+								<File Id="733627034"/>
+								<File Id="872768718"/>
+								<File Id="888197444"/>
+								<File Id="1049379122"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2566867876" Name="Play_Sprout_reverb" ObjectPath="\Events\Default Work Unit\NightSky\GestureObjects\Play_Sprout_reverb" DurationType="OneShot" DurationMin="4.096000" DurationMax="4.096000">
+					<IncludedMemoryFiles>
+						<File Id="70314303" Language="SFX">
+							<ShortName>Sprout_normalReverb4.wav</ShortName>
+							<Path>SFX/Sprout_normalReverb4_10C4C929.wem</Path>
+						</File>
+						<File Id="241127918" Language="SFX">
+							<ShortName>Sprout_normalReverb2.wav</ShortName>
+							<Path>SFX/Sprout_normalReverb2_10C4C929.wem</Path>
+						</File>
+						<File Id="427098475" Language="SFX">
+							<ShortName>Sprout_normalReverb1.wav</ShortName>
+							<Path>SFX/Sprout_normalReverb1_10C4C929.wem</Path>
+						</File>
+						<File Id="650294905" Language="SFX">
+							<ShortName>Sprout_fogReverb4.wav</ShortName>
+							<Path>SFX/Sprout_fogReverb4_10C4C929.wem</Path>
+						</File>
+						<File Id="716923284" Language="SFX">
+							<ShortName>Sprout_fogReverb5.wav</ShortName>
+							<Path>SFX/Sprout_fogReverb5_10C4C929.wem</Path>
+						</File>
+						<File Id="766948548" Language="SFX">
+							<ShortName>Sprout_normalReverb6.wav</ShortName>
+							<Path>SFX/Sprout_normalReverb6_10C4C929.wem</Path>
+						</File>
+						<File Id="773746558" Language="SFX">
+							<ShortName>Sprout_normalReverb5.wav</ShortName>
+							<Path>SFX/Sprout_normalReverb5_10C4C929.wem</Path>
+						</File>
+						<File Id="861867224" Language="SFX">
+							<ShortName>Sprout_normalReverb3.wav</ShortName>
+							<Path>SFX/Sprout_normalReverb3_10C4C929.wem</Path>
+						</File>
+						<File Id="880143743" Language="SFX">
+							<ShortName>Sprout_fogReverb3.wav</ShortName>
+							<Path>SFX/Sprout_fogReverb3_10C4C929.wem</Path>
+						</File>
+						<File Id="912911181" Language="SFX">
+							<ShortName>Sprout_fogReverb1.wav</ShortName>
+							<Path>SFX/Sprout_fogReverb1_10C4C929.wem</Path>
+						</File>
+						<File Id="926123319" Language="SFX">
+							<ShortName>Sprout_fogReverb6.wav</ShortName>
+							<Path>SFX/Sprout_fogReverb6_10C4C929.wem</Path>
+						</File>
+						<File Id="1069681796" Language="SFX">
+							<ShortName>Sprout_fogReverb2.wav</ShortName>
+							<Path>SFX/Sprout_fogReverb2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2884080601" Name="Play_Stone_NoSwitch" ObjectPath="\Events\Default Work Unit\NightSky\Environment\Play_Stone_NoSwitch" DurationType="OneShot" DurationMin="2.730667" DurationMax="16.000000">
+					<IncludedMemoryFiles>
+						<File Id="399420050" Language="SFX">
+							<ShortName>snare_boom.wav</ShortName>
+							<Path>SFX/snare_boom_10C4C929.wem</Path>
+						</File>
+						<File Id="1012693063" Language="SFX">
+							<ShortName>dramatic_boom_2.wav</ShortName>
+							<Path>SFX/dramatic_boom_2_10C4C929.wem</Path>
+						</File>
+						<File Id="1067247476" Language="SFX">
+							<ShortName>short_boom_2.wav</ShortName>
+							<Path>SFX/short_boom_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="357706744" Name="Play_Stone_test" ObjectPath="\Events\Default Work Unit\TestSound\Play_Stone_test" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="399420050" Language="SFX">
+							<ShortName>snare_boom.wav</ShortName>
+							<Path>SFX/snare_boom_10C4C929.wem</Path>
+						</File>
+						<File Id="1012693063" Language="SFX">
+							<ShortName>dramatic_boom_2.wav</ShortName>
+							<Path>SFX/dramatic_boom_2_10C4C929.wem</Path>
+						</File>
+						<File Id="1067247476" Language="SFX">
+							<ShortName>short_boom_2.wav</ShortName>
+							<Path>SFX/short_boom_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4076367489" Name="Play_Teardrop" ObjectPath="\Events\Default Work Unit\NightSky\GestureObjects\Play_Teardrop" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="3.444312" DurationMax="6.313849">
+					<IncludedMemoryFiles>
+						<File Id="8839441" Language="SFX">
+							<ShortName>teardrop_fog4.wav</ShortName>
+							<Path>SFX/teardrop_fog4_10C4C929.wem</Path>
+						</File>
+						<File Id="113538457" Language="SFX">
+							<ShortName>teardrop_normal11.wav</ShortName>
+							<Path>SFX/teardrop_normal11_10C4C929.wem</Path>
+						</File>
+						<File Id="407455686" Language="SFX">
+							<ShortName>teardrop_fog7.wav</ShortName>
+							<Path>SFX/teardrop_fog7_10C4C929.wem</Path>
+						</File>
+						<File Id="484586549" Language="SFX">
+							<ShortName>teardrop_normal9.wav</ShortName>
+							<Path>SFX/teardrop_normal9_10C4C929.wem</Path>
+						</File>
+						<File Id="492473943" Language="SFX">
+							<ShortName>teardrop_fog9.wav</ShortName>
+							<Path>SFX/teardrop_fog9_10C4C929.wem</Path>
+						</File>
+						<File Id="521813516" Language="SFX">
+							<ShortName>teardrop_normal3.wav</ShortName>
+							<Path>SFX/teardrop_normal3_10C4C929.wem</Path>
+						</File>
+						<File Id="528161773" Language="SFX">
+							<ShortName>teardrop_normal12.wav</ShortName>
+							<Path>SFX/teardrop_normal12_10C4C929.wem</Path>
+						</File>
+						<File Id="581570056" Language="SFX">
+							<ShortName>teardrop_normal1.wav</ShortName>
+							<Path>SFX/teardrop_normal1_10C4C929.wem</Path>
+						</File>
+						<File Id="594039278" Language="SFX">
+							<ShortName>teardrop_fog10.wav</ShortName>
+							<Path>SFX/teardrop_fog10_10C4C929.wem</Path>
+						</File>
+						<File Id="624257696" Language="SFX">
+							<ShortName>teardrop_normal5.wav</ShortName>
+							<Path>SFX/teardrop_normal5_10C4C929.wem</Path>
+						</File>
+						<File Id="668240125" Language="SFX">
+							<ShortName>teardrop_fog1.wav</ShortName>
+							<Path>SFX/teardrop_fog1_10C4C929.wem</Path>
+						</File>
+						<File Id="696735705" Language="SFX">
+							<ShortName>teardrop_fog8.wav</ShortName>
+							<Path>SFX/teardrop_fog8_10C4C929.wem</Path>
+						</File>
+						<File Id="710000286" Language="SFX">
+							<ShortName>teardrop_normal8.wav</ShortName>
+							<Path>SFX/teardrop_normal8_10C4C929.wem</Path>
+						</File>
+						<File Id="757023919" Language="SFX">
+							<ShortName>teardrop_normal10.wav</ShortName>
+							<Path>SFX/teardrop_normal10_10C4C929.wem</Path>
+						</File>
+						<File Id="772191475" Language="SFX">
+							<ShortName>teardrop_fog11.wav</ShortName>
+							<Path>SFX/teardrop_fog11_10C4C929.wem</Path>
+						</File>
+						<File Id="776773324" Language="SFX">
+							<ShortName>teardrop_normal7.wav</ShortName>
+							<Path>SFX/teardrop_normal7_10C4C929.wem</Path>
+						</File>
+						<File Id="827980026" Language="SFX">
+							<ShortName>teardrop_fog2.wav</ShortName>
+							<Path>SFX/teardrop_fog2_10C4C929.wem</Path>
+						</File>
+						<File Id="880858778" Language="SFX">
+							<ShortName>teardrop_fog3.wav</ShortName>
+							<Path>SFX/teardrop_fog3_10C4C929.wem</Path>
+						</File>
+						<File Id="911059320" Language="SFX">
+							<ShortName>teardrop_fog6.wav</ShortName>
+							<Path>SFX/teardrop_fog6_10C4C929.wem</Path>
+						</File>
+						<File Id="918884238" Language="SFX">
+							<ShortName>teardrop_fog12.wav</ShortName>
+							<Path>SFX/teardrop_fog12_10C4C929.wem</Path>
+						</File>
+						<File Id="934129489" Language="SFX">
+							<ShortName>teardrop_normal4.wav</ShortName>
+							<Path>SFX/teardrop_normal4_10C4C929.wem</Path>
+						</File>
+						<File Id="1002173611" Language="SFX">
+							<ShortName>teardrop_normal6.wav</ShortName>
+							<Path>SFX/teardrop_normal6_10C4C929.wem</Path>
+						</File>
+						<File Id="1012115026" Language="SFX">
+							<ShortName>teardrop_normal2.wav</ShortName>
+							<Path>SFX/teardrop_normal2_10C4C929.wem</Path>
+						</File>
+						<File Id="1041809897" Language="SFX">
+							<ShortName>teardrop_fog5.wav</ShortName>
+							<Path>SFX/teardrop_fog5_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2553471795" Name="Play_Tin" ObjectPath="\Events\Default Work Unit\NightSky\GestureObjects\Play_Tin" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="4.860149" DurationMax="7.020528">
+					<IncludedMemoryFiles>
+						<File Id="1894224" Language="SFX">
+							<ShortName>Tin12.wav</ShortName>
+							<Path>SFX/Tin12_10C4C929.wem</Path>
+						</File>
+						<File Id="30455941" Language="SFX">
+							<ShortName>Tin9.wav</ShortName>
+							<Path>SFX/Tin9_10C4C929.wem</Path>
+						</File>
+						<File Id="44091151" Language="SFX">
+							<ShortName>Tin19.wav</ShortName>
+							<Path>SFX/Tin19_10C4C929.wem</Path>
+						</File>
+						<File Id="124979201" Language="SFX">
+							<ShortName>Tin6.wav</ShortName>
+							<Path>SFX/Tin6_10C4C929.wem</Path>
+						</File>
+						<File Id="200697675" Language="SFX">
+							<ShortName>Tin11.wav</ShortName>
+							<Path>SFX/Tin11_10C4C929.wem</Path>
+						</File>
+						<File Id="288331604" Language="SFX">
+							<ShortName>Tin14.wav</ShortName>
+							<Path>SFX/Tin14_10C4C929.wem</Path>
+						</File>
+						<File Id="418264678" Language="SFX">
+							<ShortName>Tin8.wav</ShortName>
+							<Path>SFX/Tin8_10C4C929.wem</Path>
+						</File>
+						<File Id="448359999" Language="SFX">
+							<ShortName>Tin4.wav</ShortName>
+							<Path>SFX/Tin4_10C4C929.wem</Path>
+						</File>
+						<File Id="499842448" Language="SFX">
+							<ShortName>Tin2.wav</ShortName>
+							<Path>SFX/Tin2_10C4C929.wem</Path>
+						</File>
+						<File Id="553305611" Language="SFX">
+							<ShortName>Tin15.wav</ShortName>
+							<Path>SFX/Tin15_10C4C929.wem</Path>
+						</File>
+						<File Id="575327912" Language="SFX">
+							<ShortName>Tin5.wav</ShortName>
+							<Path>SFX/Tin5_10C4C929.wem</Path>
+						</File>
+						<File Id="632035645" Language="SFX">
+							<ShortName>Tin1.wav</ShortName>
+							<Path>SFX/Tin1_10C4C929.wem</Path>
+						</File>
+						<File Id="670276795" Language="SFX">
+							<ShortName>Tin10.wav</ShortName>
+							<Path>SFX/Tin10_10C4C929.wem</Path>
+						</File>
+						<File Id="899566308" Language="SFX">
+							<ShortName>Tin3.wav</ShortName>
+							<Path>SFX/Tin3_10C4C929.wem</Path>
+						</File>
+						<File Id="919106384" Language="SFX">
+							<ShortName>Tin17.wav</ShortName>
+							<Path>SFX/Tin17_10C4C929.wem</Path>
+						</File>
+						<File Id="921435501" Language="SFX">
+							<ShortName>Tin20.wav</ShortName>
+							<Path>SFX/Tin20_10C4C929.wem</Path>
+						</File>
+						<File Id="930914516" Language="SFX">
+							<ShortName>Tin13.wav</ShortName>
+							<Path>SFX/Tin13_10C4C929.wem</Path>
+						</File>
+						<File Id="932966485" Language="SFX">
+							<ShortName>Tin18.wav</ShortName>
+							<Path>SFX/Tin18_10C4C929.wem</Path>
+						</File>
+						<File Id="944009782" Language="SFX">
+							<ShortName>Tin7.wav</ShortName>
+							<Path>SFX/Tin7_10C4C929.wem</Path>
+						</File>
+						<File Id="1013355506" Language="SFX">
+							<ShortName>Tin16.wav</ShortName>
+							<Path>SFX/Tin16_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4030086710" Name="Play_Tin_test" ObjectPath="\Events\Default Work Unit\TestSound\Play_Tin_test" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="123.244652" DurationMax="142.391037">
+					<IncludedMemoryFiles>
+						<File Id="1894224" Language="SFX">
+							<ShortName>Tin12.wav</ShortName>
+							<Path>SFX/Tin12_10C4C929.wem</Path>
+						</File>
+						<File Id="30455941" Language="SFX">
+							<ShortName>Tin9.wav</ShortName>
+							<Path>SFX/Tin9_10C4C929.wem</Path>
+						</File>
+						<File Id="44091151" Language="SFX">
+							<ShortName>Tin19.wav</ShortName>
+							<Path>SFX/Tin19_10C4C929.wem</Path>
+						</File>
+						<File Id="124979201" Language="SFX">
+							<ShortName>Tin6.wav</ShortName>
+							<Path>SFX/Tin6_10C4C929.wem</Path>
+						</File>
+						<File Id="200697675" Language="SFX">
+							<ShortName>Tin11.wav</ShortName>
+							<Path>SFX/Tin11_10C4C929.wem</Path>
+						</File>
+						<File Id="288331604" Language="SFX">
+							<ShortName>Tin14.wav</ShortName>
+							<Path>SFX/Tin14_10C4C929.wem</Path>
+						</File>
+						<File Id="418264678" Language="SFX">
+							<ShortName>Tin8.wav</ShortName>
+							<Path>SFX/Tin8_10C4C929.wem</Path>
+						</File>
+						<File Id="448359999" Language="SFX">
+							<ShortName>Tin4.wav</ShortName>
+							<Path>SFX/Tin4_10C4C929.wem</Path>
+						</File>
+						<File Id="499842448" Language="SFX">
+							<ShortName>Tin2.wav</ShortName>
+							<Path>SFX/Tin2_10C4C929.wem</Path>
+						</File>
+						<File Id="553305611" Language="SFX">
+							<ShortName>Tin15.wav</ShortName>
+							<Path>SFX/Tin15_10C4C929.wem</Path>
+						</File>
+						<File Id="575327912" Language="SFX">
+							<ShortName>Tin5.wav</ShortName>
+							<Path>SFX/Tin5_10C4C929.wem</Path>
+						</File>
+						<File Id="632035645" Language="SFX">
+							<ShortName>Tin1.wav</ShortName>
+							<Path>SFX/Tin1_10C4C929.wem</Path>
+						</File>
+						<File Id="670276795" Language="SFX">
+							<ShortName>Tin10.wav</ShortName>
+							<Path>SFX/Tin10_10C4C929.wem</Path>
+						</File>
+						<File Id="899566308" Language="SFX">
+							<ShortName>Tin3.wav</ShortName>
+							<Path>SFX/Tin3_10C4C929.wem</Path>
+						</File>
+						<File Id="919106384" Language="SFX">
+							<ShortName>Tin17.wav</ShortName>
+							<Path>SFX/Tin17_10C4C929.wem</Path>
+						</File>
+						<File Id="921435501" Language="SFX">
+							<ShortName>Tin20.wav</ShortName>
+							<Path>SFX/Tin20_10C4C929.wem</Path>
+						</File>
+						<File Id="930914516" Language="SFX">
+							<ShortName>Tin13.wav</ShortName>
+							<Path>SFX/Tin13_10C4C929.wem</Path>
+						</File>
+						<File Id="932966485" Language="SFX">
+							<ShortName>Tin18.wav</ShortName>
+							<Path>SFX/Tin18_10C4C929.wem</Path>
+						</File>
+						<File Id="944009782" Language="SFX">
+							<ShortName>Tin7.wav</ShortName>
+							<Path>SFX/Tin7_10C4C929.wem</Path>
+						</File>
+						<File Id="1013355506" Language="SFX">
+							<ShortName>Tin16.wav</ShortName>
+							<Path>SFX/Tin16_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="57706899" Name="Play_Typewriter" ObjectPath="\Events\Default Work Unit\NightSky\GestureObjects\Play_Typewriter" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="2.225938" DurationMax="4.932073">
+					<IncludedMemoryFiles>
+						<File Id="253071093" Language="SFX">
+							<ShortName>typewriter7.wav</ShortName>
+							<Path>SFX/typewriter7_10C4C929.wem</Path>
+						</File>
+						<File Id="300248372" Language="SFX">
+							<ShortName>typewriter2.wav</ShortName>
+							<Path>SFX/typewriter2_10C4C929.wem</Path>
+						</File>
+						<File Id="369919108" Language="SFX">
+							<ShortName>typewriter4.wav</ShortName>
+							<Path>SFX/typewriter4_10C4C929.wem</Path>
+						</File>
+						<File Id="557036550" Language="SFX">
+							<ShortName>typewriter5.wav</ShortName>
+							<Path>SFX/typewriter5_10C4C929.wem</Path>
+						</File>
+						<File Id="691802109" Language="SFX">
+							<ShortName>typewriter6.wav</ShortName>
+							<Path>SFX/typewriter6_10C4C929.wem</Path>
+						</File>
+						<File Id="918969102" Language="SFX">
+							<ShortName>typewriter3.wav</ShortName>
+							<Path>SFX/typewriter3_10C4C929.wem</Path>
+						</File>
+						<File Id="992542624" Language="SFX">
+							<ShortName>typewriter1.wav</ShortName>
+							<Path>SFX/typewriter1_10C4C929.wem</Path>
+						</File>
+						<File Id="1054306901" Language="SFX">
+							<ShortName>typewriter8.wav</ShortName>
+							<Path>SFX/typewriter8_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="325855949" Name="Play_Whistlebird" ObjectPath="\Events\Default Work Unit\NightSky\GestureObjects\Play_Whistlebird" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="3.159210" DurationMax="4.904516">
+					<IncludedMemoryFiles>
+						<File Id="163082587" Language="SFX">
+							<ShortName>whislebird11.wav</ShortName>
+							<Path>SFX/whislebird11_10C4C929.wem</Path>
+						</File>
+						<File Id="205890191" Language="SFX">
+							<ShortName>whislebird1.wav</ShortName>
+							<Path>SFX/whislebird1_10C4C929.wem</Path>
+						</File>
+						<File Id="225637012" Language="SFX">
+							<ShortName>whislebird4.wav</ShortName>
+							<Path>SFX/whislebird4_10C4C929.wem</Path>
+						</File>
+						<File Id="311910778" Language="SFX">
+							<ShortName>whislebird2.wav</ShortName>
+							<Path>SFX/whislebird2_10C4C929.wem</Path>
+						</File>
+						<File Id="348596260" Language="SFX">
+							<ShortName>whislebird17.wav</ShortName>
+							<Path>SFX/whislebird17_10C4C929.wem</Path>
+						</File>
+						<File Id="409378189" Language="SFX">
+							<ShortName>whislebird19.wav</ShortName>
+							<Path>SFX/whislebird19_10C4C929.wem</Path>
+						</File>
+						<File Id="409405081" Language="SFX">
+							<ShortName>whislebird15.wav</ShortName>
+							<Path>SFX/whislebird15_10C4C929.wem</Path>
+						</File>
+						<File Id="486238240" Language="SFX">
+							<ShortName>whislebird3.wav</ShortName>
+							<Path>SFX/whislebird3_10C4C929.wem</Path>
+						</File>
+						<File Id="504591260" Language="SFX">
+							<ShortName>whislebird9.wav</ShortName>
+							<Path>SFX/whislebird9_10C4C929.wem</Path>
+						</File>
+						<File Id="526047737" Language="SFX">
+							<ShortName>whislebird18.wav</ShortName>
+							<Path>SFX/whislebird18_10C4C929.wem</Path>
+						</File>
+						<File Id="633648088" Language="SFX">
+							<ShortName>whislebird12.wav</ShortName>
+							<Path>SFX/whislebird12_10C4C929.wem</Path>
+						</File>
+						<File Id="665812809" Language="SFX">
+							<ShortName>whislebird10.wav</ShortName>
+							<Path>SFX/whislebird10_10C4C929.wem</Path>
+						</File>
+						<File Id="691817840" Language="SFX">
+							<ShortName>whislebird8.wav</ShortName>
+							<Path>SFX/whislebird8_10C4C929.wem</Path>
+						</File>
+						<File Id="692206272" Language="SFX">
+							<ShortName>whislebird6.wav</ShortName>
+							<Path>SFX/whislebird6_10C4C929.wem</Path>
+						</File>
+						<File Id="741294690" Language="SFX">
+							<ShortName>whislebird13.wav</ShortName>
+							<Path>SFX/whislebird13_10C4C929.wem</Path>
+						</File>
+						<File Id="765677644" Language="SFX">
+							<ShortName>whislebird20.wav</ShortName>
+							<Path>SFX/whislebird20_10C4C929.wem</Path>
+						</File>
+						<File Id="908754944" Language="SFX">
+							<ShortName>whislebird5.wav</ShortName>
+							<Path>SFX/whislebird5_10C4C929.wem</Path>
+						</File>
+						<File Id="991167308" Language="SFX">
+							<ShortName>whislebird16.wav</ShortName>
+							<Path>SFX/whislebird16_10C4C929.wem</Path>
+						</File>
+						<File Id="1021448198" Language="SFX">
+							<ShortName>whislebird14.wav</ShortName>
+							<Path>SFX/whislebird14_10C4C929.wem</Path>
+						</File>
+						<File Id="1073017941" Language="SFX">
+							<ShortName>whislebird7.wav</ShortName>
+							<Path>SFX/whislebird7_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2796942438" Name="SonicObject" ObjectPath="\Events\Default Work Unit\NightSky\SonicGlobe\SonicObject" MaxAttenuation="60.000000" DurationType="OneShot" DurationMin="18.390625" DurationMax="31.446646">
+					<IncludedMemoryFiles>
+						<File Id="42965227" Language="SFX">
+							<ShortName>GV_E5.wav</ShortName>
+							<Path>SFX/GV_E5_10C4C929.wem</Path>
+						</File>
+						<File Id="212058961" Language="SFX">
+							<ShortName>GV_G6.wav</ShortName>
+							<Path>SFX/GV_G6_10C4C929.wem</Path>
+						</File>
+						<File Id="212828677" Language="SFX">
+							<ShortName>Ghost_Voices\GV_A2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_A2_10C4C929.wem</Path>
+						</File>
+						<File Id="247542851" Language="SFX">
+							<ShortName>GV_C7.wav</ShortName>
+							<Path>SFX/GV_C7_10C4C929.wem</Path>
+						</File>
+						<File Id="485932590" Language="SFX">
+							<ShortName>Ghost_Voices\GV_G3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_G3_10C4C929.wem</Path>
+						</File>
+						<File Id="531623825" Language="SFX">
+							<ShortName>GV_G4.wav</ShortName>
+							<Path>SFX/GV_G4_10C4C929.wem</Path>
+						</File>
+						<File Id="565841670" Language="SFX">
+							<ShortName>Ghost_Voices\GV_A3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_A3_10C4C929.wem</Path>
+						</File>
+						<File Id="581822472" Language="SFX">
+							<ShortName>Ghost_Voices\GV_E3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_E3_10C4C929.wem</Path>
+						</File>
+						<File Id="600120348" Language="SFX">
+							<ShortName>Ghost_Voices\GV_C2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_C2_10C4C929.wem</Path>
+						</File>
+						<File Id="607155933" Language="SFX">
+							<ShortName>Ghost_Voices\GV_E2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_E2_10C4C929.wem</Path>
+						</File>
+						<File Id="826440137" Language="SFX">
+							<ShortName>Ghost_Voices\GV_G2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_G2_10C4C929.wem</Path>
+						</File>
+						<File Id="858636786" Language="SFX">
+							<ShortName>Ghost_Voices\GV_B2.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_B2_10C4C929.wem</Path>
+						</File>
+						<File Id="927749289" Language="SFX">
+							<ShortName>Ghost_Voices\GV_C3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_C3_10C4C929.wem</Path>
+						</File>
+						<File Id="980267315" Language="SFX">
+							<ShortName>GV_C4.wav</ShortName>
+							<Path>SFX/GV_C4_10C4C929.wem</Path>
+						</File>
+						<File Id="984450538" Language="SFX">
+							<ShortName>GV_C6.wav</ShortName>
+							<Path>SFX/GV_C6_10C4C929.wem</Path>
+						</File>
+						<File Id="1038160271" Language="SFX">
+							<ShortName>Ghost_Voices\GV_B3.wav</ShortName>
+							<Path>SFX/Ghost_Voices/GV_B3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="2026081138" Name="Fog_Amount" ObjectPath="\Game Parameters\Default Work Unit\Fog_Amount"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="117244578" Name="pinchLight_R" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_R">
+					<Switches>
+						<Switch Id="1160234136" Name="Normal" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_R\Normal"/>
+						<Switch Id="1216965916" Name="stone" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_R\stone"/>
+						<Switch Id="114672780" Name="plant" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_R\plant"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="117244604" Name="pinchLight_L" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_L">
+					<Switches>
+						<Switch Id="1160234136" Name="Normal" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_L\Normal"/>
+						<Switch Id="114672780" Name="plant" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_L\plant"/>
+						<Switch Id="1216965916" Name="stone" ObjectPath="\Switches\Default Work Unit\NightSky\pinchLight_L\stone"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3769549118">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="342023438">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1924347634" Name="L_Index" ObjectPath="\Events\Default Work Unit\CaveScene\L_Index" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="45347330" Language="SFX">
+							<ShortName>Unfriendly\G1.wav</ShortName>
+							<Path>SFX/Unfriendly/G1_10C4C929.wem</Path>
+						</File>
+						<File Id="229781483" Language="SFX">
+							<ShortName>Unfriendly\E1.wav</ShortName>
+							<Path>SFX/Unfriendly/E1_10C4C929.wem</Path>
+						</File>
+						<File Id="373765945" Language="SFX">
+							<ShortName>Unfriendly\F1.wav</ShortName>
+							<Path>SFX/Unfriendly/F1_10C4C929.wem</Path>
+						</File>
+						<File Id="399420050" Language="SFX">
+							<ShortName>snare_boom.wav</ShortName>
+							<Path>SFX/snare_boom_10C4C929.wem</Path>
+						</File>
+						<File Id="488861810" Language="SFX">
+							<ShortName>Unfriendly\C2.wav</ShortName>
+							<Path>SFX/Unfriendly/C2_10C4C929.wem</Path>
+						</File>
+						<File Id="695004939" Language="SFX">
+							<ShortName>Unfriendly\A1.wav</ShortName>
+							<Path>SFX/Unfriendly/A1_10C4C929.wem</Path>
+						</File>
+						<File Id="919845631" Language="SFX">
+							<ShortName>Unfriendly\B1.wav</ShortName>
+							<Path>SFX/Unfriendly/B1_10C4C929.wem</Path>
+						</File>
+						<File Id="973162985" Language="SFX">
+							<ShortName>Unfriendly\D1.wav</ShortName>
+							<Path>SFX/Unfriendly/D1_10C4C929.wem</Path>
+						</File>
+						<File Id="1012693063" Language="SFX">
+							<ShortName>dramatic_boom_2.wav</ShortName>
+							<Path>SFX/dramatic_boom_2_10C4C929.wem</Path>
+						</File>
+						<File Id="1028908904" Language="SFX">
+							<ShortName>Unfriendly\E2.wav</ShortName>
+							<Path>SFX/Unfriendly/E2_10C4C929.wem</Path>
+						</File>
+						<File Id="1067247476" Language="SFX">
+							<ShortName>short_boom_2.wav</ShortName>
+							<Path>SFX/short_boom_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{B1F4A771-676A-476D-8EC5-ED483C68DA75}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{B1F4A771-676A-476D-8EC5-ED483C68DA75}">
+							<Media>
+								<File Id="45347330"/>
+								<File Id="229781483"/>
+								<File Id="373765945"/>
+								<File Id="488861810"/>
+								<File Id="695004939"/>
+								<File Id="919845631"/>
+								<File Id="973162985"/>
+								<File Id="1028908904"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{C5E1B649-DF8A-471D-BBCD-A1CE80CACE88}">
+							<Media>
+								<File Id="399420050"/>
+								<File Id="1012693063"/>
+								<File Id="1067247476"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="348270556" Name="R_Index" ObjectPath="\Events\Default Work Unit\CaveScene\R_Index" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="12181325" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\C6_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/C6_long_D58C1BC9.wem</Path>
+						</File>
+						<File Id="89183607" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\B4_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/B4_long_AF45ADC9.wem</Path>
+						</File>
+						<File Id="115662522" Language="SFX">
+							<ShortName>short_louder\E4.wav</ShortName>
+							<Path>SFX/short_louder/E4_10C4C929.wem</Path>
+						</File>
+						<File Id="135209714" Language="SFX">
+							<ShortName>short_louder\C5.wav</ShortName>
+							<Path>SFX/short_louder/C5_10C4C929.wem</Path>
+						</File>
+						<File Id="191910983" Language="SFX">
+							<ShortName>short_louder\F5.wav</ShortName>
+							<Path>SFX/short_louder/F5_10C4C929.wem</Path>
+						</File>
+						<File Id="232671184" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\F5_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/F5_long_3BCD80BF.wem</Path>
+						</File>
+						<File Id="352201399" Language="SFX">
+							<ShortName>short_louder\B4.wav</ShortName>
+							<Path>SFX/short_louder/B4_10C4C929.wem</Path>
+						</File>
+						<File Id="354512671" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\A5_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/A5_long_1352845A.wem</Path>
+						</File>
+						<File Id="356423984" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\G4_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/G4_long_133AEA1B.wem</Path>
+						</File>
+						<File Id="550718376" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\C5_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/C5_long_EE6C52C1.wem</Path>
+						</File>
+						<File Id="609390564" Language="SFX">
+							<ShortName>short_louder\G4.wav</ShortName>
+							<Path>SFX/short_louder/G4_10C4C929.wem</Path>
+						</File>
+						<File Id="642031474" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\E4_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/E4_long_D035F440.wem</Path>
+						</File>
+						<File Id="733559474" Language="SFX">
+							<ShortName>short_louder\C6.wav</ShortName>
+							<Path>SFX/short_louder/C6_10C4C929.wem</Path>
+						</File>
+						<File Id="895314573" Language="SFX">
+							<ShortName>short_louder\D5.wav</ShortName>
+							<Path>SFX/short_louder/D5_10C4C929.wem</Path>
+						</File>
+						<File Id="915696372" Language="SFX">
+							<ShortName>Cloud_Shimmer\long\D5_long.wav</ShortName>
+							<Path>SFX/Cloud_Shimmer/long/D5_long_A732E0FD.wem</Path>
+						</File>
+						<File Id="1055376261" Language="SFX">
+							<ShortName>short_louder\A5.wav</ShortName>
+							<Path>SFX/short_louder/A5_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{F0786A9E-D5E9-4188-85FE-6B9A20243ED2}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{612B6ED2-9BF5-4159-A13C-AD1005865CE9}">
+							<Media>
+								<File Id="12181325"/>
+								<File Id="89183607"/>
+								<File Id="232671184"/>
+								<File Id="354512671"/>
+								<File Id="356423984"/>
+								<File Id="550718376"/>
+								<File Id="642031474"/>
+								<File Id="915696372"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F0786A9E-D5E9-4188-85FE-6B9A20243ED2}">
+							<Media>
+								<File Id="115662522"/>
+								<File Id="135209714"/>
+								<File Id="191910983"/>
+								<File Id="352201399"/>
+								<File Id="609390564"/>
+								<File Id="733559474"/>
+								<File Id="895314573"/>
+								<File Id="1055376261"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="348270556" Name="R_Index" ObjectPath="\Switches\Default Work Unit\R_Index">
+					<Switches>
+						<Switch Id="1160234136" Name="Normal" ObjectPath="\Switches\Default Work Unit\R_Index\Normal"/>
+						<Switch Id="3444057113" Name="Crystal" ObjectPath="\Switches\Default Work Unit\R_Index\Crystal"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="1924347634" Name="L_Index" ObjectPath="\Switches\Default Work Unit\L_Index">
+					<Switches>
+						<Switch Id="1160234136" Name="Normal" ObjectPath="\Switches\Default Work Unit\L_Index\Normal"/>
+						<Switch Id="3257506471" Name="Impact" ObjectPath="\Switches\Default Work Unit\L_Index\Impact"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

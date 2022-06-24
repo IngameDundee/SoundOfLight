@@ -1,0 +1,885 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b3f5ff3e8fe49c0a6c45fde8903aeb, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 6aad7581b1643e4b942d8dca2ca38e52
+    GuidInternal: 
+    m_lastTime: -8585880318714775808
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 86ed362206cba2448652d8e51ed85632
+    GuidInternal: 
+    m_lastTime: -8585458935334775808
+    List:
+    - name: Ambience
+      guid: 31cdfebc74288b4e8a317d134c5d70d2
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Ambience
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus/Ambience
+    - name: Environment
+      guid: fd8f6742a997f442854bfc2827055461
+      id: 1229948536
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Environment
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus/Environment
+    - name: GestureObject
+      guid: c9ff58fda03bbc40ae5e22ec09869c3a
+      id: 2992805167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: GestureObject
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus/GestureObject
+    - name: Hands
+      guid: e93dad3e59c3e549be90b67ca3e576a8
+      id: 1696692325
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Hands
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus/Hands
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus
+    - name: SonicObject
+      guid: 4a33f2487f515a41bcc4f3185885cfc1
+      id: 2796942438
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SonicObject
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus/SonicObject
+    - name: SpawnObject
+      guid: c1b754c77fcb6d4e8706ae23437528bc
+      id: 2364576555
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SpawnObject
+        ObjectType: 2
+      Path: Default Work Unit/Master Audio Bus/SpawnObject
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 9aecba7529cb5e4a9bf1b8c93660c2cc
+    GuidInternal: 
+    m_lastTime: -8585458926104775808
+    List:
+    - name: Main
+      guid: b3c4ed7d61524245abd1698bba66a692
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit/Main
+    - name: NightSky
+      guid: cfb113e5ea32c548b4236d82661889e3
+      id: 831140332
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 7
+      Path: Default Work Unit/NightSky
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 784913ef52d3a64094b162d87b674b61
+    GuidInternal: 
+    m_lastTime: -8585458926104775808
+    List:
+    - name: Ambience
+      guid: 934ec19fe2f71c4bab340a83bf2ad95d
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Environment
+        ObjectType: 4
+      - ElementName: Ambience
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Environment/Ambience
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: CaveScene
+      guid: 3b85cfdb56ae544388bf262cd24f7d4e
+      id: 2316941230
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: CaveScene
+        ObjectType: 4
+      Path: Default Work Unit/CaveScene
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Environment
+      guid: 75f7ea7485afe94db6091c3ff9168aa6
+      id: 1229948536
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Environment
+        ObjectType: 4
+      Path: Default Work Unit/NightSky/Environment
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FingerTipObjects
+      guid: 75d309cbd6e63d408d35f02b8cf8644b
+      id: 2779948927
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: FingerTipObjects
+        ObjectType: 4
+      Path: Default Work Unit/NightSky/FingerTipObjects
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FingerTips
+      guid: db4842027e24ec40841efc75d281cd5b
+      id: 3731027100
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: FingerTipObjects
+        ObjectType: 4
+      - ElementName: FingerTips
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/FingerTipObjects/FingerTips
+      maxAttenuation: 25
+      maxDuration: 2.724667
+      minDuration: 2.291162
+    - name: GestureObjects
+      guid: 47ad440ae9421e48b9752f7176ca074b
+      id: 3201166
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: GestureObjects
+        ObjectType: 4
+      Path: Default Work Unit/NightSky/GestureObjects
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Hands
+      guid: c423f7fa62d1b24cba2a88bdfcd78410
+      id: 1696692325
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      Path: Default Work Unit/NightSky/Hands
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: L_Index
+      guid: 92606d1ef03f1540a54b51cc46b272b8
+      id: 1924347634
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: CaveScene
+        ObjectType: 4
+      - ElementName: L_Index
+        ObjectType: 3
+      Path: Default Work Unit/CaveScene/L_Index
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: NightSky
+      guid: e735b7e01c543d4bb14c4db93f69c7c2
+      id: 831140332
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      Path: Default Work Unit/NightSky
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: NS_L_Index
+      guid: fae0b469f9f0bc469eb12cee1644d9d8
+      id: 502907952
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      - ElementName: NS_L_Index
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Hands/NS_L_Index
+      maxAttenuation: 25
+      maxDuration: 3.058335
+      minDuration: 1.28304
+    - name: NS_R_Index
+      guid: 93df25f0a259aa4facc8ecf8182e748c
+      id: 1553300302
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      - ElementName: NS_R_Index
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Hands/NS_R_Index
+      maxAttenuation: 25
+      maxDuration: 2.886684
+      minDuration: 1.211028
+    - name: Play_electrical_noise
+      guid: d28422590a0a7c47942e4d2aa79736ff
+      id: 2981901455
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      - ElementName: Play_electrical_noise
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Hands/Play_electrical_noise
+      maxAttenuation: 25
+      maxDuration: 2.97127
+      minDuration: 1.246514
+    - name: Play_FingerTipsBlend
+      guid: fcd8804d26b0054d92f00967189a13c0
+      id: 3678868996
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: FingerTipObjects
+        ObjectType: 4
+      - ElementName: Play_FingerTipsBlend
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/FingerTipObjects/Play_FingerTipsBlend
+      maxAttenuation: 25
+      maxDuration: 2.886684
+      minDuration: 2.291162
+    - name: Play_GhostVoices_Blend
+      guid: e8412442846b0a409298f0afc6082628
+      id: 3633580670
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: SonicGlobe
+        ObjectType: 4
+      - ElementName: Play_GhostVoices_Blend
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/SonicGlobe/Play_GhostVoices_Blend
+      maxAttenuation: 60
+      maxDuration: 31.446646
+      minDuration: 20.6355
+    - name: Play_Marble_noise
+      guid: 1bd0e4e77b0a744c8aeb7b6370240d6c
+      id: 256439414
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      - ElementName: Play_Marble_noise
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Hands/Play_Marble_noise
+      maxAttenuation: 25
+      maxDuration: 3.058335
+      minDuration: 1.28304
+    - name: Play_Plant_noSwitch
+      guid: 36d9372c49805a46a0f46518382e2339
+      id: 3487893033
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Environment
+        ObjectType: 4
+      - ElementName: Play_Plant_noSwitch
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Environment/Play_Plant_noSwitch
+      maxAttenuation: 0
+      maxDuration: 6.356779
+      minDuration: 5.345392
+    - name: Play_plant_test
+      guid: 5ec3c0a3316c4a44a1c8e5c836c49a2d
+      id: 2209502600
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: TestSound
+        ObjectType: 4
+      - ElementName: Play_plant_test
+        ObjectType: 3
+      Path: Default Work Unit/TestSound/Play_plant_test
+      maxAttenuation: 25
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_S3_Left
+      guid: 1bad57bdc7afee439c6cde3ba034e248
+      id: 4037996292
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      - ElementName: Play_S3_Left
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Hands/Play_S3_Left
+      maxAttenuation: 40
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_S3_Right
+      guid: a3f880aed60b7d40a859e0ec1fec4945
+      id: 2377466211
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Hands
+        ObjectType: 4
+      - ElementName: Play_S3_Right
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Hands/Play_S3_Right
+      maxAttenuation: 40
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Sprout_reverb
+      guid: 33de53667487eb48b96bf287736ad332
+      id: 2566867876
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: GestureObjects
+        ObjectType: 4
+      - ElementName: Play_Sprout_reverb
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/GestureObjects/Play_Sprout_reverb
+      maxAttenuation: 0
+      maxDuration: 4.096
+      minDuration: 4.096
+    - name: Play_Stone_NoSwitch
+      guid: 5a1c2abc83e1b34b9cf5c1616463ee2f
+      id: 2884080601
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: Environment
+        ObjectType: 4
+      - ElementName: Play_Stone_NoSwitch
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/Environment/Play_Stone_NoSwitch
+      maxAttenuation: 0
+      maxDuration: 16
+      minDuration: 2.730667
+    - name: Play_Stone_test
+      guid: b6ae82bb7264f34db528022a6739ca25
+      id: 357706744
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: TestSound
+        ObjectType: 4
+      - ElementName: Play_Stone_test
+        ObjectType: 3
+      Path: Default Work Unit/TestSound/Play_Stone_test
+      maxAttenuation: 40
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Teardrop
+      guid: 4edcd0c9ea7d31409631237f59e1255a
+      id: 4076367489
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: GestureObjects
+        ObjectType: 4
+      - ElementName: Play_Teardrop
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/GestureObjects/Play_Teardrop
+      maxAttenuation: 25
+      maxDuration: 6.313849
+      minDuration: 3.444312
+    - name: Play_Tin
+      guid: c9bc302a4d13ed43b241a41e5d6200c0
+      id: 2553471795
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: GestureObjects
+        ObjectType: 4
+      - ElementName: Play_Tin
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/GestureObjects/Play_Tin
+      maxAttenuation: 25
+      maxDuration: 7.020528
+      minDuration: 4.860149
+    - name: Play_Tin_test
+      guid: 4b3b360cb3540140b3c51d3d23161e1b
+      id: 4030086710
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: TestSound
+        ObjectType: 4
+      - ElementName: Play_Tin_test
+        ObjectType: 3
+      Path: Default Work Unit/TestSound/Play_Tin_test
+      maxAttenuation: 25
+      maxDuration: 142.39104
+      minDuration: 123.24465
+    - name: Play_Typewriter
+      guid: 4fa3405b9b3f45499534a918c29df8cd
+      id: 57706899
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: GestureObjects
+        ObjectType: 4
+      - ElementName: Play_Typewriter
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/GestureObjects/Play_Typewriter
+      maxAttenuation: 25
+      maxDuration: 4.932073
+      minDuration: 2.225938
+    - name: Play_Whistlebird
+      guid: 0af484fc6f03b94e878bff966f912305
+      id: 325855949
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: GestureObjects
+        ObjectType: 4
+      - ElementName: Play_Whistlebird
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/GestureObjects/Play_Whistlebird
+      maxAttenuation: 25
+      maxDuration: 4.904516
+      minDuration: 3.15921
+    - name: R_Index
+      guid: 5a527edaf400da418ca57ba1c49adb1a
+      id: 348270556
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: CaveScene
+        ObjectType: 4
+      - ElementName: R_Index
+        ObjectType: 3
+      Path: Default Work Unit/CaveScene/R_Index
+      maxAttenuation: 50
+      maxDuration: -1
+      minDuration: -1
+    - name: SonicGlobe
+      guid: 2e6b19f950f17b428bcb0e8fc2bdfd5a
+      id: 475985262
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: SonicGlobe
+        ObjectType: 4
+      Path: Default Work Unit/NightSky/SonicGlobe
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: SonicObject
+      guid: 6d3d7f7bc4b8804a816a30182db77574
+      id: 2796942438
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: SonicGlobe
+        ObjectType: 4
+      - ElementName: SonicObject
+        ObjectType: 3
+      Path: Default Work Unit/NightSky/SonicGlobe/SonicObject
+      maxAttenuation: 60
+      maxDuration: 31.446646
+      minDuration: 18.390625
+    - name: TestSound
+      guid: ca0fc43e796b87409ebfd1b85fda1870
+      id: 38624190
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: TestSound
+        ObjectType: 4
+      Path: Default Work Unit/TestSound
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 9e5414d974f1ed47810173bb7d201167
+    GuidInternal: 
+    m_lastTime: -8585679800164775808
+    List:
+    - name: Fog_Amount
+      guid: 7ad4b83f6cea9c468887d3a88aa2b621
+      id: 2026081138
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Fog_Amount
+        ObjectType: 13
+      Path: Default Work Unit/Fog_Amount
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: e95e9f700b30294a93f847fb9060c51c
+    GuidInternal: 
+    m_lastTime: -8585721347714775808
+    List:
+    - name: CubeState
+      guid: 039e0cb47d1b104ea8207a3bc5eb39b9
+      id: 3943631437
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: CubeState
+        ObjectType: 9
+      Path: Default Work Unit/CubeState
+      values:
+      - name: in
+        guid: fb9ae4ffb25d2947a9857185e5faae88
+        id: 1752637612
+        PathAndIcons:
+        - ElementName: in
+          ObjectType: 8
+      - name: None
+        guid: 44d09832bb5cbe428707acd292d227d5
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Out
+        guid: 442c01644496c0439f4ba892f7da6ef5
+        id: 645492555
+        PathAndIcons:
+        - ElementName: Out
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: Fog
+      guid: 5d5216afa73dfc48812869ad43e43209
+      id: 1083137563
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Fog
+        ObjectType: 9
+      Path: Default Work Unit/Fog
+      values:
+      - name: None
+        guid: c1a9d4de79ebe94190e7615ea7eef496
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Off
+        guid: 4f20c16e611ea3458a25eb792b8b1a77
+        id: 930712164
+        PathAndIcons:
+        - ElementName: Off
+          ObjectType: 8
+      - name: On
+        guid: 9f34d59615f2b541bd8e38bde8368ee9
+        id: 1651971902
+        PathAndIcons:
+        - ElementName: On
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: a85dc328221e3140ae293f9852c52ceb
+    GuidInternal: 
+    m_lastTime: -8585459503054775808
+    List:
+    - name: L_Index
+      guid: ee300fb0f1d6924b8b2db0c73ae2e7a8
+      id: 1924347634
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: L_Index
+        ObjectType: 11
+      Path: Default Work Unit/L_Index
+      values:
+      - name: Impact
+        guid: 49b6e1c58adf1d47bbcda1ce80cace88
+        id: 3257506471
+        PathAndIcons:
+        - ElementName: Impact
+          ObjectType: 10
+      - name: Normal
+        guid: 71a7f4b16a676d478ec5ed483c68da75
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: NightSky
+      guid: f117c604d3494a4498cad4dff3f65335
+      id: 831140332
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      Path: Default Work Unit/NightSky
+      values: []
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: pinchLight_L
+      guid: c80d1b80fcd2ab42aa32cdf99f7ef6af
+      id: 117244604
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: pinchLight_L
+        ObjectType: 11
+      Path: Default Work Unit/NightSky/pinchLight_L
+      values:
+      - name: Normal
+        guid: 36116ccb50b2064c8a77777ff42d7b61
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 10
+      - name: plant
+        guid: a7f67c0555fed441bf71eeb2fbdb092a
+        id: 114672780
+        PathAndIcons:
+        - ElementName: plant
+          ObjectType: 10
+      - name: stone
+        guid: 4f465aefeeb9fc408dbabc02262316e9
+        id: 1216965916
+        PathAndIcons:
+        - ElementName: stone
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: pinchLight_R
+      guid: ed6a5e5997c7e244aa4919b39cfd90de
+      id: 117244578
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: NightSky
+        ObjectType: 4
+      - ElementName: pinchLight_R
+        ObjectType: 11
+      Path: Default Work Unit/NightSky/pinchLight_R
+      values:
+      - name: Normal
+        guid: c4e363d12570b0438b9b8961786371b7
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 10
+      - name: plant
+        guid: 17e38ae618f9f245983c180a0301a6a2
+        id: 114672780
+        PathAndIcons:
+        - ElementName: plant
+          ObjectType: 10
+      - name: stone
+        guid: c2d01ce54302a642900d9113ed4c02f6
+        id: 1216965916
+        PathAndIcons:
+        - ElementName: stone
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: R_Index
+      guid: 6d53bac6769d744ca29840e760b17386
+      id: 348270556
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: R_Index
+        ObjectType: 11
+      Path: Default Work Unit/R_Index
+      values:
+      - name: Crystal
+        guid: d26e2b61f59b5941a13cad1005865ce9
+        id: 3444057113
+        PathAndIcons:
+        - ElementName: Crystal
+          ObjectType: 10
+      - name: Normal
+        guid: 9e6a78f0e9d5884185fe6b9a20243ed2
+        id: 1160234136
+        PathAndIcons:
+        - ElementName: Normal
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: TestCube
+      guid: 8b87082796da984498b65ee077791425
+      id: 1397938794
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: TestCube
+        ObjectType: 11
+      Path: Default Work Unit/TestCube
+      values:
+      - name: Cube_In
+        guid: 39f206077c7569458d9e644823af7ce3
+        id: 2770416052
+        PathAndIcons:
+        - ElementName: Cube_In
+          ObjectType: 10
+      - name: Cube_Out
+        guid: 8ea48ca3f5202f4c8938a4bc79c3d2eb
+        id: 2654086611
+        PathAndIcons:
+        - ElementName: Cube_Out
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: e500639c5cb9004184e60dd91c3bd88f
+    GuidInternal: 
+    m_lastTime: -8585880318714775808
+    List: []
+  ExpandedItems:
+  - /Normcore VR - Oculus Hand Tracking_WwiseProject
+  - /Normcore VR - Oculus Hand Tracking_WwiseProject/Events
+  - /Normcore VR - Oculus Hand Tracking_WwiseProject/Events/Default Work Unit
+  - /Normcore VR - Oculus Hand Tracking_WwiseProject/Events/Default Work Unit/NightSky
+  - /Normcore VR - Oculus Hand Tracking_WwiseProject/Events/Default Work Unit/NightSky/Environment
+  - /Normcore VR - Oculus Hand Tracking_WwiseProject/Events/Default Work Unit/TestSound
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

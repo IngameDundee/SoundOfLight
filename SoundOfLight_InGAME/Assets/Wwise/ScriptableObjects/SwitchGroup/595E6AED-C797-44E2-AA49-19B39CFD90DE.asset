@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dbf304a7c3ab418095d1e8ded9fff56, type: 3}
+  m_Name: 595E6AED-C797-44E2-AA49-19B39CFD90DE
+  m_EditorClassIdentifier: 
+  objectName: pinchLight_R
+  id: 117244578
+  guid: 595E6AED-C797-44E2-AA49-19B39CFD90DE

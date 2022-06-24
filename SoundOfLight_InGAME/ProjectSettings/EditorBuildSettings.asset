@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Cave.unity
+    guid: 574445845b0b2cb47b2276e346a0501d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/DarkRoomMain.unity
+    guid: af0410652ffb28545938e56ad2e959f8
+  - enabled: 1
+    path: Assets/Scenes/GreenHouseRoom.unity
+    guid: 52001529cea9a6c47a1f1b28cd9bfbe0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 828dec7d196894016bacd4c64513b6ab,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2d42d0e49cce64cf992aef46b2aa34b9,
+      type: 2}

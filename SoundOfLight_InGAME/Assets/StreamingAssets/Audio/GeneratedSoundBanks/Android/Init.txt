@@ -1,0 +1,25 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1083137563	Fog			\Default Work Unit\Fog	
+	3943631437	CubeState			\Default Work Unit\CubeState	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Fog			
+	930712164	Off	Fog			
+	1651971902	On	Fog			
+	645492555	Out	CubeState			
+	748895195	None	CubeState			
+	1752637612	in	CubeState			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Ambience	
+	1229948536	Environment			\Default Work Unit\Master Audio Bus\Environment	
+	1696692325	Hands			\Default Work Unit\Master Audio Bus\Hands	
+	2364576555	SpawnObject			\Default Work Unit\Master Audio Bus\SpawnObject	
+	2796942438	SonicObject			\Default Work Unit\Master Audio Bus\SonicObject	
+	2992805167	GestureObject			\Default Work Unit\Master Audio Bus\GestureObject	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+
