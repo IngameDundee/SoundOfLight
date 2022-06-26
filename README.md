@@ -1,7 +1,7 @@
 # Sound Of Light
 Multiplayer VR Sound Performance Project using Oculus Quest hand tracking feature
 
-# Description
+## Description
 Sound of Light is a multiplayer VR sound performance game. The idea behind this project is creating an anonymous and non-verbal play using hand movement and sound. Through this project, it explores how people can engage through those alternative methods of communication and see what we can feel.
 
 A more detailed explanation to use this project is coming soon.
@@ -16,14 +16,15 @@ More information about the project can be found [here](https://www.junginjung.co
 https://user-images.githubusercontent.com/58564058/175816720-a5b1d7fa-69b8-4781-bc6a-b2f32a6f7e9f.mp4
 
 
-
-# Credits
+## Credits
 The project is led by the InGAME R&D Fellow in Interactive Engagement Jung In Jung. If you have any questions about the project, contact me at [j.jung@abertay.ac.uk](j.jung@abertay.ac.uk).
 
 The game art is done by the InGAME Research Assistant Paul Blackham. 
 
 Sound of Light is based on [absurd-joy's Quest Hands for Normcore project](https://github.com/absurd-joy/Quest-hands-for-Normcore).
-Used Attribute: [PDollar-Unity](https://github.com/DaVikingCode/PDollar-Unity).
+
+### Used Attributes 
+[PDollar-Unity](https://github.com/DaVikingCode/PDollar-Unity).
 
 
 *This project is funded by InGAME: Innovation for Games and Media Enterprise, part of the AHRC Creative Industries Clusters Programme. Grant Reference AH/S002871/1* 
