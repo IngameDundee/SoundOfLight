@@ -12,8 +12,9 @@ The project is led by the InGAME R&D Fellow in Interactive Engagement Jung In Ju
 The game art is done by the InGAME Research Assistant Paul Blackham. 
 
 *This project is funded by InGAME: Innovation for Games and Media Enterprise, part of the AHRC Creative Industries Clusters Programme. Grant Reference AH/S002871/1* 
-Sound of Light is based on absurd-joy's Quest Hands for Normcore project.
-Used Attribute: PDollar-Unity.
+
+Sound of Light is based on [absurd-joy's Quest Hands for Normcore project](https://github.com/absurd-joy/Quest-hands-for-Normcore).
+Used Attribute: [PDollar-Unity](https://github.com/DaVikingCode/PDollar-Unity).
 
 
 
