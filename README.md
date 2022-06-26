@@ -8,6 +8,7 @@ A more detailed explanation to use this project is coming soon.
 
 # Credits
 The project is led by the InGAME R&D Fellow in Interactive Engagement Jung In Jung.
+
 The game art is done by the InGAME Research Assistant Paul Blackham. 
 
 *This project is funded by InGAME: Innovation for Games and Media Enterprise, part of the AHRC Creative Industries Clusters Programme. Grant Reference AH/S002871/1* 
