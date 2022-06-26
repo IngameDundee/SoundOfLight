@@ -7,7 +7,7 @@ Sound of Light is a multiplayer VR sound performance game. The idea behind this 
 A more detailed explanation to use this project is coming soon.
 
 # Credits
-The project is led by the InGAME R&D Fellow in Interactive Engagement Jung In Jung.
+The project is led by the InGAME R&D Fellow in Interactive Engagement Jung In Jung. If you have any questions about the project, contact me at [j.jung@abertay.ac.uk](j.jung@abertay.ac.uk).
 
 The game art is done by the InGAME Research Assistant Paul Blackham. 
 
