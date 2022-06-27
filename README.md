@@ -25,15 +25,11 @@ Sound & Interaction by Jung In Jung.
 
 Sound of Light is based on [absurd-joy's Quest Hands for Normcore project](https://github.com/absurd-joy/Quest-hands-for-Normcore).
 
-### Used Attributes 
-Multiplayer network: [Normcore](https://normcore.io/)
-
-Drawing gesture recognition:[PDollar-Unity](https://github.com/DaVikingCode/PDollar-Unity)
-
-
-
-
 *This project is funded by [InGAME: Innovation for Games and Media Enterprise](https://innovationforgames.com/), part of the AHRC Creative Industries Clusters Programme. Grant Reference AH/S002871/1* 
 
 <img width="400" alt="InGAME-Logo_v2 2_DPad-Colour_TransBG1" src="https://user-images.githubusercontent.com/58564058/175816806-a7e631ef-4ba8-42d4-be8f-34b6bccefac2.png">
 
+### Used Attributes 
+Multiplayer network: [Normcore](https://normcore.io/)
+
+Drawing gesture recognition:[PDollar-Unity](https://github.com/DaVikingCode/PDollar-Unity)
