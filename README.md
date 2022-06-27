@@ -19,7 +19,8 @@ https://user-images.githubusercontent.com/58564058/175816720-a5b1d7fa-69b8-4781-
 ## Credits
 The project is led by the InGAME R&D Fellow in Interactive Engagement Jung In Jung. If you have any questions about the project, contact me at [j.jung@abertay.ac.uk](j.jung@abertay.ac.uk).
 
-The game art is done by the InGAME Research Assistant Paul Blackham. 
+Game Art by Paul Blackham (InGAME Research Assistant). 
+Sound & Interaction by Jung In Jung.
 
 Sound of Light is based on [absurd-joy's Quest Hands for Normcore project](https://github.com/absurd-joy/Quest-hands-for-Normcore).
 
