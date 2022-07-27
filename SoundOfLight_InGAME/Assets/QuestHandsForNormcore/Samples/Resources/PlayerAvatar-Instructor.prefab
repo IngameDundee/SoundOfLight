@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8171882332608877210}
   - component: {fileID: 2571309716258098659}
   m_Layer: 0
-  m_Name: PlayerAvatar-Helper
+  m_Name: PlayerAvatar-Instructor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -445,7 +445,7 @@ PrefabInstance:
     - target: {fileID: 7534529145700260140, guid: 8e0dfd5744837f9419725303c8811742,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7534529145700260140, guid: 8e0dfd5744837f9419725303c8811742,
         type: 3}
@@ -504,7 +504,7 @@ PrefabInstance:
     - target: {fileID: 6237040698163708343, guid: f3dd5b62cd63dd14a81f626ddf303b08,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6237040698163708343, guid: f3dd5b62cd63dd14a81f626ddf303b08,
         type: 3}
