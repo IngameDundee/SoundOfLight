@@ -1,5 +1,5 @@
 # Sound Of Light
-Multiplayer VR Sound Performance Project using Oculus Quest hand tracking feature
+Multiplayer VR Sound Performance Project using the Oculus Quest hand tracking feature
 
 ## Description
 Sound of Light is a multiplayer VR sound performance game. The idea behind this project is creating an anonymous and non-verbal play using hand movement and sound. Through this project, it explores how people can engage through those alternative methods of communication and see what we can feel.
